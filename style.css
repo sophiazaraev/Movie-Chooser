@@ -1,0 +1,35 @@
+
+#grad {
+    background: red;
+    background: -webkit-linear-gradient(#802098, #EEB0FD); 
+    background: -o-linear-gradient(#802098, #EEB0FD); 
+    background: -moz-linear-gradient(#802098, #EEB0FD); 
+    background: linear-gradient(#802098, #EEB0FD); 
+}
+
+#something {
+    background-repeat: no-repeat;
+    background-size: cover;
+     /*min-height: 728px;*/
+
+     
+}
+#input {
+    height:50px;
+    width:200px;
+    font-size: 20px;
+}
+#button {
+    height:50px;
+}
+h3{
+    text-align:center;
+}
+
+p{
+    text-align:center;
+}
+#options{
+    text-align:center;
+}
+
